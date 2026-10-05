@@ -1,2 +1,2 @@
 # WAToolBoxPrivacyPolicy
-privacy policy for my Playstore App
+privacy policy for my Playstore App.
